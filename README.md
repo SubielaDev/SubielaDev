@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Alfonso Subiela 
 
-<!--
-**SubiTechDev/SubiTechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web y estudiante de tecnología  
 
-Here are some ideas to get you started:
+⚡ Apasionado por Python, JavaScript y el desarrollo de aplicaciones web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente aprendiendo Flask, SQLite y scraping  
+
+
+---
+
+##  Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+## 📫 Cómo contactarme
+
+- ✉️ Email: alfonso.subiela@gmail.com
+  
+- 💼 [LinkedIn](https://linkedin.com/in/alfonso-subiela)  
