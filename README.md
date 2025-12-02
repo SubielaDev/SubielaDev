@@ -2,7 +2,6 @@
 
 ### 👨‍💻 Sobre mí
 
-<br>
 > "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
 <br> 
 
