@@ -37,9 +37,8 @@ Aunque mi experiencia técnica está despegando, mi experiencia laboral previa m
 
 
 
-## 📫 Cómo contactarme
-<br>
-Puedes ponerte en contacto conmigo a través de cualquiera de mis redes.
+## 📫 Puedes ponerte en contacto conmigo a través de cualquiera de mis redes.
+
 <br>
   <p align="center">
   <a href="https://www.linkedin.com/in/alfonso-subiela" target="_blank">
