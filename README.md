@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hola, soy Alfonso Subiela 
 
 ### 👨‍💻 Sobre mí
-
+<br>
 > "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
 <br> 
 
@@ -14,6 +14,8 @@ Aunque mi experiencia técnica está despegando, mi experiencia laboral previa m
 ![Disciplina](https://img.shields.io/badge/-Disciplina-blue?style=flat-square)
 ![Aprendizaje_Rápido](https://img.shields.io/badge/-Aprendizaje_Rápido-green?style=flat-square)
 ![Trabajo_en_Equipo](https://img.shields.io/badge/-Trabajo_en_Equipo-orange?style=flat-square)
+<br>
+ **En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
 
 ---
 
