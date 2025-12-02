@@ -1,16 +1,15 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hola, soy Alfonso Subiela 
- 
+ **En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
 ### 👨‍💻 Sobre mí
 
-**En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
 > "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
-
+<br> 
  
 Soy un **Desarrollador Junior🧩 ** Vengo del sector industrial, donde aprendí el valor del **👷‍♂️trabajo duro y la disciplina🧹**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología ⚡.
 
 Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
 
-**Lo que ofrezco:**
+<br>**Lo que ofrezco:**
 ![Curiosidad](https://img.shields.io/badge/-Curiosidad-yellow?style=flat-square)
 ![Disciplina](https://img.shields.io/badge/-Disciplina-blue?style=flat-square)
 ![Aprendizaje_Rápido](https://img.shields.io/badge/-Aprendizaje_Rápido-green?style=flat-square)
