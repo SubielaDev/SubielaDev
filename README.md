@@ -37,20 +37,27 @@ Aunque mi experiencia técnica está despegando, mi experiencia laboral previa m
 
 
 
-## 📫 Puedes ponerte en contacto conmigo a través de cualquiera de mis redes.
+## 📫 Contáctame
 
 <br>
-  <p align="center">
+ <p align="center">
   <a href="https://www.linkedin.com/in/alfonso-subiela" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 10px" alt="LinkedIn" />
-  </a>
-  <a href="mailto:subiela.alfonso@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
-  </a>
-     <a href="https://discord.com/users/annkka" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:subiela.alfonso@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/annkka" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="40">
+  </a>
+</p>
+
 
 
  
