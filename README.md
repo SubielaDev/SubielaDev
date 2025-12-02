@@ -6,9 +6,9 @@
 > "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
 
  
-# Soy un **Desarrollador Junior🧩 ** Vengo del sector industrial, donde aprendí el valor del **👷‍♂️trabajo duro y la disciplina🧹**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología ⚡.
+Soy un **Desarrollador Junior🧩 ** Vengo del sector industrial, donde aprendí el valor del **👷‍♂️trabajo duro y la disciplina🧹**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología ⚡.
 
-# Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
+Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
 
 **Lo que ofrezco:**
 ![Curiosidad](https://img.shields.io/badge/-Curiosidad-yellow?style=flat-square)
