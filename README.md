@@ -1,16 +1,12 @@
 # 👋 Hola, soy Alfonso Subiela 
 
-💻 Desarrollador Web y estudiante de tecnología  
-⚡ Apasionado por la tecnología
-🌱 Actualmente aprendiendo Flask, SQLite y scraping 
-
+> "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
+> 
 ### 👨‍💻 Sobre mí
 
-> "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
+**En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
 
-🔄 **En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
-
-Soy un **Desarrollador Junior** Vengo del sector industrial, donde aprendí el valor del **trabajo duro y la disciplina**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología.
+Soy un **🧩 Desarrollador Junior💻** Vengo del sector industrial, donde aprendí el valor del **👷‍♂️trabajo duro y la disciplina🧹**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología ⚡.
 Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
 
 **Lo que ofrezco:**
