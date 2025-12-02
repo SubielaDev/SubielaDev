@@ -4,24 +4,21 @@
 ⚡ Apasionado por la tecnología
 🌱 Actualmente aprendiendo Flask, SQLite y scraping 
 
-Vengo del sector industrial, donde aprendí el valor del trabajo duro y la disciplina, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología.
-Me considero un perfil Junior con una gran capacidad de adaptación y muchas ganas de enfrentarme a retos reales. No busco solo un empleo, sino un entorno de mentoría donde pueda transformar mi pasión y mis conocimientos teóricos en experiencia práctica, aportando compromiso y energía al equipo.
-
 ### 👨‍💻 Sobre mí
 
 > "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
 
 🔄 **En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
 
-Soy un **Desarrollador Junior** con los pies en la tierra y la vista en el código. Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
+Soy un **Desarrollador Junior** Vengo del sector industrial, donde aprendí el valor del **trabajo duro y la disciplina**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología.
+Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
 
-**Lo que traigo a la mesa:**
+**Lo que ofrezco:**
 ![Curiosidad](https://img.shields.io/badge/-Curiosidad-yellow?style=flat-square)
 ![Disciplina](https://img.shields.io/badge/-Disciplina-blue?style=flat-square)
 ![Aprendizaje_Rápido](https://img.shields.io/badge/-Aprendizaje_Rápido-green?style=flat-square)
 ![Trabajo_en_Equipo](https://img.shields.io/badge/-Trabajo_en_Equipo-orange?style=flat-square)
 
----
 ---
 
 ##  Tecnologías
